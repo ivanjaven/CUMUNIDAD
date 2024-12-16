@@ -1,0 +1,37 @@
+export interface RegistrationTypedef {
+  benefits: string
+  day: string
+  email: string
+  fingerprint_fmd: string
+  gender: string
+  houseNumber: string
+  image_base64: string
+  middlename: string
+  mobile: string
+  month: string
+  name: string
+  additional_income: string
+  is_family_planning: string
+  family_planning_method: string
+  is_pregnant: string
+  is_lactating: string
+  nursing_method: string
+  educationalAttainments: string
+  isPersonwithDisability: string
+  isHouseholdHead: string
+  childrenCount: string
+  usageIodized: string
+  usageFortifiedRice: string
+  type_of_housing: string
+  housing_status: string
+  water_source: string
+  toilet_type: string
+  isOFW: string
+  nationality: string
+  occupation: string
+  religion: string
+  status: string
+  street: string
+  surname: string
+  year: string
+}
